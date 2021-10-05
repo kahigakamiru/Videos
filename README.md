@@ -5,6 +5,7 @@
 ##Videos
 - A website to show how to display videos in a website
 -click [here] (https://kahigakamiru.github.io/Videos/)
+click video2 button to see the other page
 
 ## Installation / Setup instruction
 
